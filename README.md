@@ -40,7 +40,7 @@ From the above characteristic table, we can directly write the next state equati
 
 
 **PROGRAM**
-
+```
 Program for flipflops and verify its truth table in quartus using Verilog programming.
 Developed by: Jerowin Geo J A 
 RegisterNumber: 212223100016
@@ -61,12 +61,14 @@ end
 end
 assign q_bar = ~q;
 endmodule
-
+```
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![329697108-61fd3809-f780-4197-8567-a2bc1e0d7e74](https://github.com/04Varsha/T-FLIPFLOP-POSEDGE/assets/149035374/dc18e2ee-f2c9-47c5-a373-bbea78e0ff03)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![329697143-2a9c5ea9-5f76-41ed-ad92-eaa4d4bfccc0](https://github.com/04Varsha/T-FLIPFLOP-POSEDGE/assets/149035374/3320aeff-f20e-477b-af67-a641267cbf27)
 
 **RESULTS**
